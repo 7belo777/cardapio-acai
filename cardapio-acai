@@ -1,0 +1,6 @@
+git init
+git add .
+git commit -m "Versão inicial do site Açaí do Amor 💜"
+git remote add origin https://github.com/7belo777/cardapio-acai.git
+git branch -M main
+git push -u origin main
